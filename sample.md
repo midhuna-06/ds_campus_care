@@ -1,4 +1,3 @@
-This is the md file
 
 ## Review comments
 
